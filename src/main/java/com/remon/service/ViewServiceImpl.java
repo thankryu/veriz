@@ -34,7 +34,7 @@ public class ViewServiceImpl implements ViewService{
 //	@Value("#{global['FILE_LOCATION']}")
 //	private String FILE_PATH;
 
-	private static String FILE_PATH = "D:\\OneDrive\\pic";
+	private static String FILE_PATH = "C:\\OneDrive\\pic";
 
 	
 	private static final SimpleDateFormat dateFormat = new SimpleDateFormat("yyyyMMddHHmmss");
