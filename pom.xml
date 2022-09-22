@@ -224,6 +224,7 @@
                     <compilerArgument>-Xlint:all</compilerArgument>
                     <showWarnings>true</showWarnings>
                     <showDeprecation>true</showDeprecation>
+					<encoding>UTF-8</encoding>
                 </configuration>
             </plugin>
             <plugin>
@@ -234,6 +235,7 @@
                     <mainClass>org.test.int1.Main</mainClass>
                 </configuration>
             </plugin>
+			
         </plugins>
     </build>
 </project>
